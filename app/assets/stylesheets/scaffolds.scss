@@ -64,7 +64,7 @@ div {
   background-color: #f0f0f0;
 
   h2 {
-    text-align: left;
+    text-align: center;
     font-weight: bold;
     padding: 5px 5px 5px 15px;
     font-size: 12px;
@@ -81,4 +81,16 @@ div {
 
 label {
   display: block;
+}
+
+.selec   {
+  color: white;
+  text-align: center;
+  font-family: Girassol, sans-serif;
+}
+
+.ss-titre {
+  color: white;
+  text-align: center;
+  font-family: Girassol, sans-serif;
 }
